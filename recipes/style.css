@@ -1,0 +1,48 @@
+.flan{
+    height: 300px;
+    width: auto;
+}
+
+.pbnj{
+    height: 300px;
+    width: auto;
+}
+
+.smoothie{
+    height: 300px;
+    width: auto;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 60px;
+    color: red;
+    background-color: purple;
+}
+
+p{
+    font-family: fantasy;
+    font-weight: normal;
+    font-size: 25px;
+    color: palevioletred;
+    background-color: rebeccapurple;
+
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: hotpink;
+    background-color: indigo;
+}
+
+ul, ol
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    color: rosybrown;
+    background-color: rebeccapurple;
+}
